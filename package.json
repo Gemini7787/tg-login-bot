@@ -1,0 +1,8 @@
+{
+  "name": "tg-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "telegram": "^2.22.2",
+    "uuid": "^9.0.1"
+  }
+}
